@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/stephaniekwak/twitter-clouds'
+let g:netrw_dirhist_2='/Users/stephaniekwak/.vim'
+let g:netrw_dirhist_3='/Users/stephaniekwak/.tmux'
+let g:netrw_dirhist_4='/Users/stephaniekwak/.vim'
